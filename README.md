@@ -49,7 +49,8 @@ Thanks for stopping by my profile! Letâ€™s build something amazing together. ðŸš
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=flat&logo=linux&logoColor=white)  
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=flat&logo=linux&logoColor=white) 
+![CI/CD](https://img.shields.io/badge/CI/CD-%2300C853.svg)  
 
 
 ---
