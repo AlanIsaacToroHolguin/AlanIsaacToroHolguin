@@ -35,11 +35,11 @@ emerging technologies, building efficient solutions to real-world challenges, an
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=999999&border_color=333333)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&bg_color=000000&title_color=ffffff&text_color=cccccc&icon_color=00cccc&border_color=333333)
 
 
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=transparent&background=000000&ring=ffffff&fire=cccccc&currStreakLabel=ffffff&sideNums=cccccc&currStreakNum=ffffff&dates=999999)
 
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=transparent&background=000000&ring=00cccc&fire=ffffff&currStreakLabel=00cccc&sideNums=cccccc&currStreakNum=00cccc&dates=999999)
 
 
 ---
