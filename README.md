@@ -36,6 +36,7 @@ Currently, I’m sharpening my skills through academic training and real-world p
   
 ![Streak Stats](https://streak-stats.demolab.com?user=AlanIsaacToroHolguin&background=0d1117&ring=bb86fc&fire=ff00ff&currStreakNum=ff77ff&sideNums=bb86fc&currStreakLabel=ff00ff&sideLabels=cfcfcf&dates=808080)
 
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&theme=gotham&layout=compact)  
 
 ---
