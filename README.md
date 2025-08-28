@@ -1,8 +1,8 @@
-# 💫 About Me
+# About Me
 
-Hi! 👋 I'm **Alan Toro**, a passionate *Technologist in Analysis and Software Development* on the path to becoming a skilled Software Developer and future Software Architect.  
+Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.
 
-Currently, I’m sharpening my skills through academic training and real-world projects. I love exploring new technologies, solving real problems with code, and collaborating on innovative ideas. 🚀  
+I am currently strengthening my skills through academic training and hands-on projects. My main interests include exploring emerging technologies, building efficient solutions to real-world challenges, and contributing to innovative software initiatives.
 
 ---
 
@@ -33,12 +33,7 @@ Currently, I’m sharpening my skills through academic training and real-world p
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&title_color=ff00ff&text_color=cfcfcf&icon_color=bb86fc&bg_color=0d1117&border_color=ff00ff)
-
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=tokyonight)  
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&layout=compact&title_color=ff00ff&text_color=cfcfcf&bg_color=0d1117&border_color=ff00ff)
-
 
 ---
 
