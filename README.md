@@ -35,7 +35,7 @@ I am currently strengthening my skills through academic training and hands-on pr
   
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=transparent&title_color=4F8CC9&text_color=9f9f9f&icon_color=4F8CC9&border_color=4F8CC9&bg_color=00000000)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AlanIsaacToroHolguin)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AlanIsaacToroHolguin)](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=transparent&background=000000&ring=00cccc&fire=ffffff&currStreakLabel=00cccc&sideNums=cccccc&currStreakNum=ffffff&dates=888888)
 
 </div>
 
