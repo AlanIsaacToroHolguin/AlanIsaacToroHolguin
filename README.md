@@ -60,7 +60,7 @@ I'm continuously enhancing my skills through both academic training and hands-on
 <div align="center">
 
 ![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=transparent&title_color=4F8CC9&text_color=2E4053&icon_color=4F8CC9&border_color=4F8CC9&bg_color=00000000&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=AlanIsaacToroHolguin)
 
 </div>
 ---
