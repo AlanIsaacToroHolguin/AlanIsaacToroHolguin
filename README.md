@@ -1,15 +1,12 @@
-## About Me
+## About Me  
 
-<p>
-  Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.  
+![aboutme-header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=header)
 
-  I am currently strengthening my skills through academic training and hands-on projects. My main interests include exploring emerging technologies, building efficient solutions to real-world challenges, and contributing to innovative software initiatives.
-</p>
+Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.  
 
-<img align="right" src="[https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG84eDM4eHprYTdkN2UzZjFhNmZubnZ1dWtoeDR4bWlmdTFvbWg3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Fox4sRv6aRS9bCggt/giphy.gif)" width="300" alt="banner gif"/>
+I am currently strengthening my skills through academic training and hands-on projects. My main interests include exploring emerging technologies, building efficient solutions to real-world challenges, and contributing to innovative software initiatives.  
 
-
-
+![aboutme-footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer)
 
 ---
 
