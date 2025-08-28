@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Alan%20Toro&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![aboutme-header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=header)
 ## About Me  
 Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software 
 Developer and aspiring Software Architect.  
