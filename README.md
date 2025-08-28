@@ -1,5 +1,5 @@
 # 👨‍💻 Alan Toro 
-**Software Analyst | Software Developer | Aspiring Software Architect**
+**Software Analyst &  Developer| Aspiring Software Architect**
 
 *Crafting efficient solutions through code and innovation*
 
@@ -61,7 +61,7 @@ I'm continuously enhancing my skills through both academic training and hands-on
 
 ![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=transparent&title_color=4F8CC9&text_color=2E4053&icon_color=4F8CC9&border_color=4F8CC9&bg_color=00000000&hide_border=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlanIsaacToroHolguin&theme=transparent&background=00000000&border=4F8CC9&stroke=4F8CC9&dates=5D6D7E&ring=4F8CC9&fire=4F8CC9&currStreakNum=2E4053&sideNums=2E4053&currStreakLabel=4F8CC9&sideLabels=4F8CC9)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app/api?user=AlanIsaacToroHolguin&theme=transparent&background=00000000&border=4F8CC9&stroke=4F8CC9&dates=5D6D7E&ring=4F8CC9&fire=4F8CC9&currStreakNum=2E4053&sideNums=2E4053&currStreakLabel=4F8CC9&sideLabels=4F8CC9)
 
 </div>
 
