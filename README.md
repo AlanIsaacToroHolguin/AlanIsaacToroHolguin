@@ -33,7 +33,7 @@ I am currently strengthening my skills through academic training and hands-on pr
 # 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=tokyonight&title_color=ff00ff&icon_color=bb86fc&text_color=cfcfcf&border_color=ff00ff)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=tokyonight)  
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=tokyonightcolor=ff00ff&icon_color=bb86fc&text_color=cfcfcf&border_color=ff00ff)  
 
 ---
 
