@@ -2,11 +2,12 @@
 
 ![aboutme-header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=header)
 
-Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.  
+Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software 
+Developer and aspiring Software Architect.  
 
-I am currently strengthening my skills through academic training and hands-on projects. My main interests include exploring emerging technologies, building efficient solutions to real-world challenges, and contributing to innovative software initiatives.  
+I am currently strengthening my skills through academic training and hands-on projects. My main interests include exploring 
+emerging technologies, building efficient solutions to real-world challenges, and contributing to innovative software initiatives.  
 
-![aboutme-footer](https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=120&section=footer)
 
 ---
 
