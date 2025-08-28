@@ -1,13 +1,12 @@
 ## About Me
-
-![Banner](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
 Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.
 
 
-Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.
+Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software Developer and aspiring Software Architect.[Banner](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG84eDM4eHprYTdkN2UzZjFhNmZubnZ1dWtoeDR4bWlmdTFvbWg3YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3Fox4sRv6aRS9bCggt/giphy.gif)
 
 I am currently strengthening my skills through academic training and hands-on projects. My main interests include exploring emerging technologies, building efficient solutions to real-world challenges, and contributing to innovative software initiatives.
+
+
 
 ---
 
