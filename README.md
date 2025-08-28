@@ -1,5 +1,4 @@
-![aboutme-header](https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=header)
-## About Me  
+![aboutme-header](https://capsule-render.vercel.app/api?type=waving&color=ffffff,999999,000000&height=120&section=header) ## About Me  
 Hello! I’m Alan Toro, a dedicated Technologist in Analysis and Software Development pursuing a career as a Software 
 Developer and aspiring Software Architect.  
 
