@@ -34,7 +34,7 @@ Currently, I’m sharpening my skills through academic training and real-world p
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&title_color=ff00ff&text_color=cfcfcf&icon_color=bb86fc&bg_color=0d1117&border_color=ff00ff)
 
-![Streak Stats](https://streak-stats.demolab.com?user=AlanIsaacToroHolguin&background=0d1117&ring=bb86fc&fire=ff00ff&currStreakNum=ff77ff&sideNums=bb86fc&currStreakLabel=ff00ff&sideLabels=cfcfcf&dates=808080&cache_seconds=0)
+![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=tokyonight)  
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&layout=compact&title_color=ff00ff&text_color=cfcfcf&bg_color=0d1117&border_color=ff00ff)
