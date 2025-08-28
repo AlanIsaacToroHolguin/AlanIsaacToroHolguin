@@ -1,67 +1,44 @@
-# 💫 About Me
+<h1 align="center">Fancy seeing you here! 👋</h1>
 
-Hi! 👋 I'm Alan Toro, a passionate **Technologist in Analysis and Software Development** with a strong commitment to becoming one of the best software developers and a great software architect in the industry.
+I am Alan Toro, but you can just call me Alan.  
+I’m a technology enthusiast and an open-source advocate, passionate about building impactful software.  
+Always open to collaborating on projects and sharing innovative ideas.  
 
-Currently, I am honing my skills through academic training and real-world projects, always eager to learn, grow, and push the boundaries of what I can achieve with code.
-
-I believe in the power of technology to transform lives and create meaningful impact. With determination, curiosity, and resilience, I am dedicated to mastering software development and contributing innovative solutions that solve real problems.
-
-My journey is fueled by a growth mindset, and I aspire to lead with creativity, discipline, and a collaborative spirit — becoming not just a developer, but a visionary  software architect who shapes the future of the tech field.
-
-Thanks for stopping by my profile! Let’s build something amazing together. 🚀
-
----
-
-## 🌐 Connect with me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alankhozryn)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-software-arch/)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alan.software.arch@gmail.com)  
+📫 How to reach me:  
+[![Linkedin Badge](https://img.shields.io/badge/-YourName-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TU_LINK/)](https://www.linkedin.com/in/TU_LINK/) 
+[![Gmail Badge](https://img.shields.io/badge/-yourmail@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yourmail@gmail.com)](mailto:yourmail@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@yourtwitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/yourtwitter)](https://twitter.com/yourtwitter)
 
 ---
 
-# 💻 Tech Stack
+## ⚡ Technologies
 
-### Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)  
-![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=flat&logo=astro&logoColor=white)  
-
-### Backend  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)  
-![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)  
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)  
-![REST API](https://img.shields.io/badge/API-REST-green)  
-![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=flat&logo=graphql&logoColor=white)  
-
-### Databases  
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)  
-
-### Tools & Platforms  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=flat&logo=linux&logoColor=white) 
-![CI/CD](https://img.shields.io/badge/CI/CD-%2300C853.svg)  
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) 
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=fff) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) 
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws) 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-Here are some stats showcasing my coding activity and main programming languages:
+![Your github stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&theme=gotham&show_icons=true)  
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=AlanIsaacToroHolguin&theme=gotham)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&theme=gotham&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+
+---
+
 
 ---
 
