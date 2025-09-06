@@ -1,5 +1,5 @@
 # 👨‍💻 Alan Toro 
-**Software Analyst &  Developer| Aspiring Software Architect**
+**Software Analyst &  Developer| Aspiring Software Architect*
 
 *Crafting efficient solutions through code and innovation*
 
