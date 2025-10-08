@@ -68,4 +68,4 @@ I'm continuously enhancing my skills through both academic training and hands-on
 > "Talk is cheap. Show me the code." 
 > ― Linus Torvalds
 
-*I believe in the power of well-crafted software to solve complex problems and create meaningful impact. Through continuous learning and practical application, I strive to build solutions that are not only functional but also elegant and maintainable.*
+**I believe in the power of well-crafted software to solve complex problems and create meaningful impact. Through continuous learning and practical application, I strive to build solutions that are not only functional but also elegant and maintainable.**
