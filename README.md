@@ -17,7 +17,7 @@ I'm continuously enhancing my skills through both academic training and hands-on
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-software-arch/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan.software.arch@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow%20My%20Journey-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/alankhozryn)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20My%20Journey-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Torodev_)
 
 ---
 
