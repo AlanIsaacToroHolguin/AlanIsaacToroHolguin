@@ -50,7 +50,6 @@ I'm continuously enhancing my skills through both academic training and hands-on
 ![CI/CD](https://img.shields.io/badge/CI/CD-0080FF?style=for-the-badge)
 
 ---
----
 
 ## 💡 Development Philosophy
 
