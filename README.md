@@ -33,6 +33,7 @@ I'm continuously enhancing my skills through both academic training and hands-on
 ![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 ### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoe-badge&logo=springboot&logoColor=)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
