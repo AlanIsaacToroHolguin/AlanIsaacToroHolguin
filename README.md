@@ -53,8 +53,7 @@ I'm continuously enhancing my skills through both academic training and hands-on
 
 ## 📈 GitHub Analytics
 
-
-![Alan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=transparent&title_color=4F8CC9&text_color=2E4053&icon_color=4F8CC9&border_color=4F8CC9&bg_color=00000000&hide_border=true)
+[![Alan's GitHub Stats](https://github-readme-stats.vercel.appeadme-stats)
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=AlanIsaacToroHolguin&theme=github-compact&bg_color=00000000&color=4F8CC9&line=4F8CC9&point=4F8CC9&hide_border=true)
 
