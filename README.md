@@ -53,12 +53,9 @@ I'm continuously enhancing my skills through both academic training and hands-on
 
 ## 📈 GitHub Analytics
 
-
-<!-- Carta principal de estadísticas -->
-<img src="https://stats.rapidtools.dev/" alt="GitHub Stats" />
-
-<!-- Carta de lenguajes -->
-<img src="https://stats.rapidtools.dev/" alt="Top Languages" />
+<!-- Estadísticas principales -->
+![GitHub Stats](https://stats.rapidtools.dev/api/st- Lenguajes más usados -->
+![Top Languages](https://stats.rapidtools.dev/api/languages?username=AlanIsaacToroHolguin&them
 
 ---
 
