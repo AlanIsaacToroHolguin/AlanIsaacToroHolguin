@@ -76,10 +76,10 @@ I aim to write code that is:
 ![GitHub Streak](https://streak-stats.demolab.com?user=AlanIsaacToroHolguin&theme=tokyonight&hide_border=true)
 
 ### 🚀 Estadísticas generales
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=tokyonight&hide_border=true)
+![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=tokyonight&hide_border=true)
 
 ### 📦 Lenguajes más usados
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
