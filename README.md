@@ -73,13 +73,14 @@ I aim to write code that is:
 # 📊 GitHub Activity & Stats
 
 ### 🔥 Racha de contribuciones
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AlanIsaacToroHolguin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=AlanIsaacToroHolguin&theme=tokyonight&hide_border=true)
 
 ### 🚀 Estadísticas generales
-![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanIsaacToroHolguin&theme=tokyonight)
 
 ### 📦 Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanIsaacToroHolguin&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanIsaacToroHolguin&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanIsaacToroHolguin&theme=tokyonight)
 
 ---
 
