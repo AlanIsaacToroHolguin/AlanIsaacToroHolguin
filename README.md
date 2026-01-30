@@ -72,15 +72,11 @@ I aim to write code that is:
 
 # 📊 GitHub Activity & Stats
 
-### 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=AlanIsaacToroHolguin&theme=tokyonight&hide_border=true)
-
 ### 🚀 Estadísticas generales
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanIsaacToroHolguin&theme=tokyonight)
 
 ### 📦 Lenguajes más usados
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanIsaacToroHolguin&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlanIsaacToroHolguin&theme=tokyonight)
 
 ---
 
