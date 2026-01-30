@@ -73,7 +73,7 @@ I aim to write code that is:
 # 📊 GitHub Activity & Stats
 
 ### 🔥 Racha de contribuciones
-![GitHub Streak](https://streak-stats.demolab.com?user=AlanIsaacToroHolguin&theme=tokyonight&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?AlanIsaacToroHolguin=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🚀 Estadísticas generales
 ![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlanIsaacToroHolguin&show_icons=true&theme=tokyonight&hide_border=true)
