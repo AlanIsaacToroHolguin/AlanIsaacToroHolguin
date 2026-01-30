@@ -73,11 +73,8 @@ I aim to write code that is:
 # 📊 GitHub Activity & Stats
 
 ### 🚀 Estadísticas generales
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanIsaacToroHolguin&theme=tokyonight)
-
-### 📦 Lenguajes más usados
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanIsaacToroHolguin&theme=tokyonight)
-
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanIsaacToroHolguin&theme=tokyonight)
 ---
 
 # 🏗️ Currently Building
