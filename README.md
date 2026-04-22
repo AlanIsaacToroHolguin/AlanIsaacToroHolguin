@@ -43,7 +43,7 @@ I leverage **Artificial Intelligence** as a powerful tool to enhance software fu
 
 ---
 
-# 🚀 Professional Highlights (MAS Global)
+# 🚀 Professional Highlights
 
 - **Fullstack Systems:** Developed 10+ dynamic modules for enterprise apps using .NET and React.
 - **CI/CD Architecture:** Optimized automated deployment flows, reducing production downtime.
@@ -52,7 +52,10 @@ I leverage **Artificial Intelligence** as a powerful tool to enhance software fu
 ---
 
 # 📊 GitHub Stats & Skills
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=AlanIsaacToroHolguin&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanIsaacToroHolguin&theme=tokyonight)  
+
+
+
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanIsaacToroHolguin&theme=tokyonight)
 
 ---
